@@ -25,9 +25,4 @@ En esta última etapa organicé el código en dos archivos:
 - `modelos.py`: contiene las clases.
 - `main.py`: contiene la creación de objetos y las pruebas.
 
-## Herramientas utilizadas
 
-- Python
-- Visual Studio Code
-- Mermaid
-- GitHub
